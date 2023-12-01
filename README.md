@@ -1,1 +1,1 @@
-# udemy-cypress-dersleri-23
+# udemy-cypress-sessions
